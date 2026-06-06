@@ -326,4 +326,4 @@ Posibles extensiones futuras:
 
 ## 19. Autoría
 
-Proyecto desarrollado por **Juan Manuel Peña Moreno** como parte de una tesis de maestría en Ciencia de los Datos y Analítica, con enfoque en predicción direccional de acciones colombianas, series de tiempo financieras, aprendizaje automático y procesamiento de lenguaje natural aplicado a noticias financieras.
+Proyecto desarrollado por **Juan Manuel Peña Moreno** como parte de una tesis de maestría en Ciencia de los Datos y Analítica, aseorado por el PhD **Diego Fernando Fonseca Valero**, con enfoque en predicción direccional de acciones colombianas, series de tiempo financieras, aprendizaje automático y procesamiento de lenguaje natural aplicado a noticias financieras.
