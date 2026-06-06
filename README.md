@@ -1,4 +1,4 @@
-# Predicción de dirección de acciones colombianas con Machine Learning, Deep Learning y embeddings de noticias
+# Predicción direccional de acciones colombianas mediante series históricas y representaciones textuales de noticias
 
 Este repositorio contiene el desarrollo experimental de una tesis de maestría en Ciencia de Datos y Analítica orientada a predecir el comportamiento futuro de acciones colombianas a partir de dos fuentes principales de información:
 
